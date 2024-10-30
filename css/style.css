@@ -1,0 +1,39 @@
+#bg_img {
+  width: 100px;
+}
+
+.lp_del_btn {
+  cursor: pointer;
+  color: darkred;
+  margin-left: 2px;
+}
+
+.lp_list_wrap {
+  height: 70vh;
+  overflow: auto;
+}
+
+.lp_list {
+  width: 90%;
+}
+
+.lp_list li {
+  margin-top: 10px;
+  padding: 3px;
+}
+
+.lp_fields_wrap {
+  border-bottom: 1px solid gray;
+  padding: 10px 3px;
+  margin-right: 20px;
+}
+
+.lp_fields_wrap div {
+  display: inline-block;
+  margin-right: 20px;
+  vertical-align: top;
+}
+
+.lp_title {
+  color: gray;
+}
